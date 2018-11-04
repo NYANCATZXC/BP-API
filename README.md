@@ -1,2 +1,1 @@
-# BP-API
-Unofficial BP API
+# :eyes: Coming soon! (I hope)
